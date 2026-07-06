@@ -56,7 +56,7 @@ pythonPlatform = "Linux"
 include = ["src", "tests"]
 venvPath = "."
 venv = ".venv"
-strict = true
+typeCheckingMode = "strict"
 reportMissingImports = true
 reportMissingTypeStubs = false
 
