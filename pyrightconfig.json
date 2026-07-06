@@ -1,0 +1,10 @@
+{
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Linux",
+  "include": ["src", "tests"],
+  "venvPath": ".",
+  "venv": ".venv",
+  "strict": true,
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false
+}
